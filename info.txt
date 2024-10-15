@@ -1,0 +1,4 @@
+regn_no - 12221881
+name - EVURU CHANDRA SEKHAR ARUN KUMAR
+age - 19
+address - ANDHRA PRADESH
